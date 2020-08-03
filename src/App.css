@@ -1,3 +1,18 @@
-h1 {
+h1, h3, h6 {
     color: white;
+}
+
+.select-css {
+    background-color: #3e444a;
+    color: white;
+}
+
+div.inline { 
+    float:left;
+    padding-left: 4rem;
+    padding-top: 1rem;
+}
+
+div.lchart {
+    padding-top: 2rem;
 }

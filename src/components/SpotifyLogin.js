@@ -5,7 +5,7 @@ export default class SpotifyLogin extends Component {
     render() {
         return (
             <div style={divStyle}>
-                <h1 style={titleStyle}>Spotify Playlist Analyzer</h1>
+                <h1 style={titleStyle}>Sigma</h1>
                 <Button style={buttonStle} variant="secondary" size="lg" onClick={this.props.authorize}>Log In</Button>
             </div>
         )
