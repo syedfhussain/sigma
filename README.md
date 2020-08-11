@@ -1,6 +1,6 @@
 # Sigma
 
-**Note: This application requires [https://github.com/farazsfh/sigma-server](sigma-server) to handle API requests. Please set up sigma-server before starting the front end application.
+** Note: This application requires [https://github.com/farazsfh/sigma-server](sigma-server) to handle API requests. Please set up sigma-server before starting the front end application.
 
 # Setup
 1. Ensure you have Node.js on your machine
