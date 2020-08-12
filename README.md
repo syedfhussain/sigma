@@ -13,3 +13,6 @@ Sigma is a web application that collects playlist data from Spotify and creates 
 6. Click login, sign in with your Spotify account and then select a playlist to analyze
 
 If playlists are not being displayed, refresh the page.
+
+# Demonstration
+![demonstration](https://thumbs.gfycat.com/MadeupThoroughAoudad-size_restricted.gif)
