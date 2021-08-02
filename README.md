@@ -1,4 +1,4 @@
-# Sigma
+# Sigma (a Spotify Data Visualizer)
 
 **Note: This application requires [sigma-server](https://github.com/farazsfh/sigma-server) to handle API requests. Please set up sigma-server before starting the front end application.**
 
